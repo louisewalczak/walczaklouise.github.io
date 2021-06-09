@@ -1,0 +1,13 @@
+body {
+  background: pink;
+  font-family: arial;
+}
+
+h1 {
+  color: green;
+  font-size: 32px;
+}
+
+h2, h3, h4 {
+  font-size: 28px;
+}
